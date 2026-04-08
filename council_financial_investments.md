@@ -9,3 +9,4 @@ PERSONAS:
   - personas/quant-analyst/SKILL.md
   - personas/macro-strategist/SKILL.md
   - personas/risk-skeptic/SKILL.md
+  - personas/tail-risk-antifragility/SKILL.md
